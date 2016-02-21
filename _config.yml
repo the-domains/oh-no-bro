@@ -2,6 +2,7 @@ name: 'Oh No Bro!'
 favicon: null
 layout_spectrum: 0.04691930813714862
 typography_spectrum: 0.301775615895167
+title: 'Oh No Bro!'
 cta:
   domain: null
   bucket: null
